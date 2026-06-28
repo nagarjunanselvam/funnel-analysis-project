@@ -82,7 +82,7 @@ Purchase
 
 ## Executive Summary Dashboard
 
-![Executive Summary](images/01_dashboard_overview.png)
+![Executive Summary](Images/01_dashboard_overview.png)
 
 Provides a high-level overview of website performance through KPIs, funnel metrics, marketing performance, and customer behavior.
 
@@ -92,7 +92,7 @@ Provides a high-level overview of website performance through KPIs, funnel metri
 
 ## KPI Overview
 
-![KPI Cards](images/02_kpi_cards.png)
+![KPI Cards](Images/02_kpi_cards.png)
 
 ### Purpose
 
@@ -116,7 +116,7 @@ Provides an executive snapshot of overall website performance.
 
 ## Conversion Funnel
 
-![Conversion Funnel](images/03_conversion_funnel.png)
+![Conversion Funnel](Images/03_conversion_funnel.png)
 
 ### Purpose
 
@@ -144,7 +144,7 @@ Purchase
 
 ## Conversion Rate by Referral Source
 
-![Referral Source](images/04_referral_source.png)
+![Referral Source](Images/04_referral_source.png)
 
 ### Purpose
 
@@ -160,7 +160,7 @@ Compares conversion performance across marketing channels.
 
 ## Monthly Traffic & Conversion Trends
 
-![Monthly Trends](images/05_monthly_trends.png)
+![Monthly Trends](Images/05_monthly_trends.png)
 
 ### Purpose
 
@@ -175,7 +175,7 @@ Tracks website traffic alongside conversion performance over time.
 
 ## New vs Returning Users
 
-![Returning Users](images/06_returning_users.png)
+![Returning Users](Images/06_returning_users.png)
 
 ### Purpose
 
@@ -190,7 +190,7 @@ Compares purchasing behavior between new and returning customers.
 
 # Funnel Deep Dive
 
-![Funnel Deep Dive](images/07_funnel_deep_dive.png)
+![Funnel Deep Dive](Images/07_funnel_deep_dive.png)
 
 This dashboard focuses on customer segmentation and behavioral analysis.
 
@@ -198,7 +198,7 @@ This dashboard focuses on customer segmentation and behavioral analysis.
 
 ## Conversion Rate Heatmap
 
-![Heatmap](images/08_heatmap.png)
+![Heatmap](Images/08_heatmap.png)
 
 ### Purpose
 
@@ -213,7 +213,7 @@ Shows conversion rates by **hour of the day** and **day of the week**.
 
 ## Conversion Rate by Country
 
-![Country Performance](images/09_country_conversion.png)
+![Country Performance](Images/09_country_conversion.png)
 
 ### Purpose
 
@@ -229,7 +229,7 @@ Compares conversion performance across geographic markets.
 
 ## Cart Completion vs Abandonment
 
-![Cart Abandonment](images/10_cart_abandonment.png)
+![Cart Abandonment](Images/10_cart_abandonment.png)
 
 ### Purpose
 
